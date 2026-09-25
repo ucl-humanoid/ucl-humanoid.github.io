@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ucl-humanoid.github.io/sitemap.xml
